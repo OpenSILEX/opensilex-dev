@@ -38,7 +38,7 @@
         "@vue/cli-service": "4.2.3",
         "@vue/eslint-config-typescript": "5.0.2",
         "simple-progress-webpack-plugin": "^1.1.2",
-        "yargs-parser": "18.1.1"
+        "yargs-parser": "18.1.2"
     },
     "eslintConfig": {
         "root": true,
