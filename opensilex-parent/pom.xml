@@ -74,7 +74,7 @@
         <java.jwt.version>3.10.1</java.jwt.version>
         <picocli.version>4.2.0</picocli.version>
         <bcript.version>0.9.0</bcript.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <logback.version>1.2.3</logback.version>
         <janino.version>3.1.2</janino.version>
         <slf4j.api.version>1.7.30</slf4j.api.version>
