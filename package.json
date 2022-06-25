@@ -15,7 +15,7 @@
         "@fortawesome/vue-fontawesome": "0.1.9",
         "core-js": "3.6.4",
         "inversify": "^5.0.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.7",
         "reflect-metadata": "0.1.13",
         "vee-validate": "^3.2.5",
         "vue": "2.6.11",
