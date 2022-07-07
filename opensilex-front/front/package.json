@@ -17,7 +17,7 @@
         "d3": "5.15.0",
         "icon-kit": "^1.0.0",
         "jwt-decode": "^2.2.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "preval.macro": "^4.0.0",
         "vue-airbnb-style-datepicker": "^2.7.1",
         "sass-loader": "8.0.2",
